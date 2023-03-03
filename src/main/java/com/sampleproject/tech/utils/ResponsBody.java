@@ -14,6 +14,7 @@ public class ResponsBody {
 
   public ResponsBody(Object data, Object message) {
     this.data = data;
+    this.message = message;
   }
 
   public ResponsBody(Object data, Object message, HttpStatus status) {
