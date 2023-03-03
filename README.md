@@ -29,7 +29,7 @@ Instal dan Jalankan project:
 
 | Parameter | Type     | Description                      |
 | :-------- | :------- | :------------------------------- |
-| `code`    | `string` | **Required= true**. code or name |
+| `code`    | `string` | **Required= false**. code or name |
 
 #### Get All Customer by JPA
 
@@ -39,7 +39,7 @@ Instal dan Jalankan project:
 
 | Parameter | Type     | Description                      |
 | :-------- | :------- | :------------------------------- |
-| `code`    | `string` | **Required= true**. code or name |
+| `code`    | `string` | **Required= false**. code or name |
   
 #### Get Customer 1 data
 
